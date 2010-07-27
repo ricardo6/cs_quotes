@@ -1,0 +1,3 @@
+A list of my most liked computer science related quotes in a special text format used by signify. Signify is a program to generate semi-random signatures and can be used to show a quote of the day, e.g. whenever you login.
+
+To use it just copy the file into your home directory as ~/.signify and append to your .bashrc file the command "signify".
