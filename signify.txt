@@ -85,6 +85,10 @@ Measuring programming progress by lines of code is like measuring aircraft build
 % |
 Unix never says "please." - Rob Pike
 % |
+There are only two kinds of languages: the ones people complain about and the ones nobody uses. - Bjarne Stroustrup
+% |
+Within C++, there is a much smaller and cleaner language struggling to get out. - Bjarne Stroustrup
+% |
 Being abstract is something profoundly different from being vague... The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise. - Edsger Dijkstra
 % |
 Considering the current sad state of our computer programs, software development is clearly still a black art, and cannot yet be called an engineering discipline. - Bill Clinton
